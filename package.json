@@ -1,0 +1,31 @@
+{
+  "name": "eslint-config-jk",
+  "version": "1.0.0",
+  "description": "eslint-config-jk",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "react",
+    "javascript",
+    "typescript"
+  ],
+  "author": "jeong keun park <crimsonglory.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/eslint": "^8.44.2",
+    "@typescript-eslint/eslint-plugin": "^6.3.0",
+    "@typescript-eslint/parser": "^6.3.0",
+    "eslint": "^8.47.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-airbnb-typescript": "^17.1.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-import": "^2.28.0",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-prettier": "^5.0.0",
+    "eslint-plugin-react": "^7.33.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^3.0.1"
+  }
+}
